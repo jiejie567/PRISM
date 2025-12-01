@@ -23,7 +23,9 @@ PRISM stands for **P**ortfolio & **R**esearch **I**nterface **S**ite **M**aker. 
 
 ### Prerequisites
 
-*   Node.js 15 or later
+*   Node.js 22 or later
+    *   **Important**: Please download and install Node.js manually from [https://nodejs.org/en/download](https://nodejs.org/en/download).
+    *   Better not to use the pre-installed version on your system, as it may be outdated or incompatible.
 *   npm, pnpm, or yarn
 
 ### Installation
@@ -31,7 +33,7 @@ PRISM stands for **P**ortfolio & **R**esearch **I**nterface **S**ite **M**aker. 
 1.  **Clone the repository:**
 
     ```bash
-    git clone https://github.com/yourusername/PRISM.git
+    git clone https://github.com/xyjoey/PRISM.git
     cd PRISM
     ```
 
