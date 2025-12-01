@@ -28,6 +28,7 @@ export interface Publication {
   url?: string;
   code?: string;
   pdfUrl?: string;
+  video?: string; // Optional property for video links
   tags: string[];
   keywords?: string[];
   type: PublicationType;

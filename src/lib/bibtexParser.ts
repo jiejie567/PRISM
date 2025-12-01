@@ -85,6 +85,7 @@ export function parseBibTeX(bibtexContent: string): Publication[] {
       description: cleanBibTeXString(tags.description || tags.note),
       selected,
       preview,
+      video: tags.video, // Add video field
       
       // Store original BibTeX (excluding custom fields)
       bibtex: reconstructBibTeX(entry, ['selected', 'preview', 'description', 'keywords', 'code']),
@@ -239,4 +240,4 @@ function reconstructBibTeX(entry: { entryType: string; citationKey: string; entr
   bibtex += '}';
   
   return bibtex;
-} 
+}

@@ -1,5 +1,5 @@
-I am a PhD student at the School of Science, University of Example, advised by [Prof. Advisor One](https://example.com) and [Dr. Advisor Two](https://example.com).
+I am a Postdoctoral Research Fellow at the School of MAE at Nanyang Technological University (NTU), advised by Prof. Mir Feroskhan.
 
-Prior to this, I obtained a BSc degree with First Class Honours in Natural Science from the University of Example.
+Prior to this, I was a Postdoctoral Research Fellow at the School of EEE at NTU, under the supervision of Prof. Xie Lihua. I received my B.Eng., M.Eng., and Ph.D. degrees from Harbin Institute of Technology (HIT).
 
-My current research focuses on investigating the mathematical principles of natural philosophy.
+My current research focuses on Embodied AI, including Diffusion Policy and World Models with robotics. My doctoral research focused on SLAM (Simultaneous Localization and Mapping).
