@@ -2,7 +2,7 @@
 title = "Xu Jie 徐杰"
 description = "Research Fellow at Nanyang Technological University, focusing on Embodied AI, SLAM, and multi-sensor fusion."
 favicon = "/favicon.svg"
-last_updated = "November 28, 2025"
+last_updated = "December 01, 2025"
 
 [author]
 name = "Xu Jie (Rover)"
@@ -23,7 +23,7 @@ location_details = [
 google_scholar = "https://scholar.google.com/citations?user=iRT5LSYAAAAJ&hl=en"
 orcid = "https://orcid.org/0000-0002-6846-6734"
 github = ""
-linkedin = ""
+linkedin = "www.linkedin.com/in/jie-xu-591ba9313"
 
 [features]
 # Show a like button on the about page
@@ -43,24 +43,6 @@ title = "Publications"
 type = "page"
 target = "publications"
 href = "/publications"
-
-[[navigation]]
-title = "Projects"
-type = "page"
-target = "projects"
-href = "/projects"
-
-[[navigation]]
-title = "Awards"
-type = "page"
-target = "awards"
-href = "/awards"
-
-[[navigation]]
-title = "Services"
-type = "page"
-target = "services"
-href = "/services"
 
 [[navigation]]
 title = "CV"
