@@ -1,24 +1,23 @@
 [site]
 title = "Xu Jie 徐杰"
-description = "Research Fellow at Nanyang Technological University, focusing on Embodied AI, SLAM, and multi-sensor fusion."
+description = "Based in Shanghai at Anyverse Dynamics, focusing on Embodied AI, SLAM, and multi-sensor fusion."
 favicon = "/favicon.svg"
-last_updated = "December 01, 2025"
+last_updated = "September 10, 2026"
 
 [author]
 name = "Xu Jie (Rover)"
-title = "Postdoc (Reserach Fellow)"
-institution = "Nanyang Technological University, Singapore"
+title = "Embodied AI & Robotics"
+institution = "Anyverse Dynamics, Shanghai"
 avatar = "/bio.jpg"
 
 [social]
 # Contact information (leave blank or delete to hide)
 
 email = "jie.xu@ntu.edu.sg"
-location = "Singapore"
-location_url = "https://www.google.com/maps/place/南洋理工大学/@1.3483099,103.6805598,17z/data=!3m2!4b1!5s0x31da0fbcdeaff83b:0xed7be5332686be!4m6!3m5!1s0x31da0f0a99014463:0xb8bb0800c52d8219!8m2!3d1.3483099!4d103.6831347!16zL20vMGw0OWs?entry=ttu&g_ep=EgoyMDI1MTEyMy4xIKXMDSoASAFQAw%3D%3D"
+location = "Shanghai"
+location_url = "https://www.google.com/maps/search/?api=1&query=Shanghai%2C%20China"
 location_details = [
-  "School of Mechanical and Aerospace Engineering (MAE),",
-  "Nanyang Technological University, Singapore"
+  "Anyverse Dynamics, Shanghai"
 ]
 google_scholar = "https://scholar.google.com/citations?user=iRT5LSYAAAAJ&hl=en"
 orcid = "https://orcid.org/0000-0002-6846-6734"

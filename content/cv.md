@@ -18,6 +18,12 @@
 
 ## Experience
 
+**Anyverse Dynamics**, Shanghai · *Current*
+
+**Research Fellow (Postdoc)**
+School of MAE, Nanyang Technological University · *Previous position*
+- Advised by Prof. Mir Feroskhan.
+
 **Research Fellow (Postdoc)**
 elta–NTU CoLab, Nanyang Technological University *2024 - 2025*
 - Research on SLAM, multi-sensor fusion, and autonomous robotics.

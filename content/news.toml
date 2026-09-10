@@ -1,4 +1,16 @@
 [[news]]
+date = "2026-09"
+content = "📍 I am now working at Anyverse Dynamics in Shanghai."
+
+[[news]]
+date = "2026-09"
+content = "🚀 [UpDown-SC](https://github.com/jiejie567/updown-sc) is now open source: gravity-canonicalized dual-envelope Scan Context for indoor LiDAR place recognition. [Project page](https://jiejie567.github.io/updown-sc/)."
+
+[[news]]
+date = "2026-09"
+content = "🚀 [JEPA Policy](https://github.com/jiejie567/JEPA-Policy) is now open source: diffusion-free imitation learning via paired action and future representation prediction. [Project page](https://jiejie567.github.io/JEPA-Policy/)."
+
+[[news]]
 date = "2026-04"
 content = "📄 The paper \"NVMS-SLAM: Normal Vector-based Multi-Session LiDAR SLAM in Indoor Environments\" is now available on IEEE Xplore Early Access."
 

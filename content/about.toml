@@ -15,6 +15,12 @@ source = "bio.md"
 title = "About"
 
 [[sections]]
+id = "open_source"
+type = "markdown"
+source = "open_source.md"
+title = "Open Source"
+
+[[sections]]
 id = "featured_publications"
 type = "publications"
 title = "Selected Publications"
@@ -26,4 +32,3 @@ id = "news"
 type = "list"
 title = "News"
 source = "news.toml"
-
