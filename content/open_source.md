@@ -8,4 +8,10 @@ Diffusion-free robot imitation learning through paired action and future represe
 
 Gravity-canonicalized dual-envelope Scan Context for indoor LiDAR place recognition. The release includes a standalone C++ implementation, baseline evaluation protocols, and reproducibility artifacts.
 
-[Code](https://github.com/jiejie567/updown-sc) · [Project Page](https://jiejie567.github.io/updown-sc/)
+[Paper](https://arxiv.org/abs/2609.29118) · [Code](https://github.com/jiejie567/updown-sc) · [Project Page](https://jiejie567.github.io/updown-sc/)
+
+### LIO Gravity Estimation
+
+A controlled study of online gravity and accelerometer-bias estimation in LiDAR-inertial odometry.
+
+[Paper](https://arxiv.org/abs/2609.13675) · [Code](https://github.com/jiejie567/rethink-lio-gravity)

@@ -1,4 +1,16 @@
 [[news]]
+date = "2026-11"
+content = "📄 Scale Anchoring via Implicit Semantics and Sequence-Consistent Loop Closure for VGGT-Based SLAM has been submitted to arXiv."
+
+[[news]]
+date = "2026-09"
+content = "📄 [MonoEgo](https://arxiv.org/abs/2609.34512), our work on monocular egocentric demonstration capture with passive wrist markers, is available on arXiv."
+
+[[news]]
+date = "2026-09"
+content = "📄 Our studies on [UpDown-SC](https://arxiv.org/abs/2609.29118) and [online gravity estimation in LiDAR-inertial odometry](https://arxiv.org/abs/2609.13675) are available on arXiv."
+
+[[news]]
 date = "2026-09"
 content = "📍 I am now working at Anyverse Dynamics in Shanghai."
 

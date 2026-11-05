@@ -55,6 +55,12 @@ export default function SelectedPublications({ publications, title = 'Selected P
                         <p className="text-sm text-neutral-600 dark:text-neutral-500 mb-2">
                             {pub.journal || pub.conference}
                         </p>
+                        {(pub.url || pub.code) && (
+                            <p className="text-sm space-x-3">
+                                {pub.url && <a href={pub.url} target="_blank" rel="noopener noreferrer" className="text-accent hover:underline">Paper</a>}
+                                {pub.code && <a href={pub.code} target="_blank" rel="noopener noreferrer" className="text-accent hover:underline">Code</a>}
+                            </p>
+                        )}
                         {pub.description && (
                             <p className="text-sm text-neutral-500 dark:text-neutral-500 line-clamp-2">
                                 {pub.description}
