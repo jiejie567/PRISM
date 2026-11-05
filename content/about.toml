@@ -4,7 +4,8 @@ title = "About"
 [profile]
 research_interests = [
   "Embodied AI",
-  "World Model",
+  "Robot Learning & Predictive Representations",
+  "Egocentric Demonstration Capture",
   "SLAM (Calibration & LIO & VIO)"
 ]
 

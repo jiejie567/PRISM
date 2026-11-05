@@ -2,7 +2,7 @@
 
 Diffusion-free robot imitation learning through paired action and future representation prediction. A shared Transformer jointly predicts action chunks and future visual representations in two feed-forward steps.
 
-[Code](https://github.com/jiejie567/JEPA-Policy) · [Project Page](https://jiejie567.github.io/JEPA-Policy/)
+[Paper](https://arxiv.org/abs/2609.09630) · [Code](https://github.com/jiejie567/JEPA-Policy) · [Project Page](https://jiejie567.github.io/JEPA-Policy/)
 
 ### UpDown-SC
 
